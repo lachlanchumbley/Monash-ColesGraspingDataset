@@ -11,7 +11,7 @@ You can download the dataset [**HERE**](https://bridges.monash.edu/articles/data
 # Download Instructions
 TODO
 
-The 3D object models used in this grasping dataset can be found [**HERE**](https://lachlanchumbley.github.io/ObjectDataset/).
+The 3D object models used in this grasping dataset can be found [**HERE**](https://lachlanchumbley.github.io/ColesObjectSet/).
 
 ## The Objects
 <div float="left" style="display: flex; flex-direction: row; flex-wrap: wrap;">
