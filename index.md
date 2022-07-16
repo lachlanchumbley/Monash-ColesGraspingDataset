@@ -9,9 +9,16 @@ The dataset was created to assist in the development of data-driven robotic gras
 You can download the dataset [**HERE**](https://bridges.monash.edu/articles/dataset/6-DoF_Real_Robotic_Grasping_Dataset/20174165).
 
 # Download Instructions
-TODO
+1. Download all data zip files
+2. Unzip all folders to the same location as unpack_data.py
+3. To combine point cloud data into one folder and visualize the data, run `python unpack_data.py`
 
-The 3D object models used in this grasping dataset can be found [**HERE**](https://lachlanchumbley.github.io/ColesObjectSet/).
+You can download `python unpack_data.py` [**HERE**](link).
+
+NOTE: This requires cv2, open3d and rospy_message_converter to be installed
+
+
+The 3D object models used in this grasping dataset can be found [**HERE**](https://lachlanchumbley.github.io/XXXXXColesObjectSet/).
 
 ## The Objects
 <div float="left" style="display: flex; flex-direction: row; flex-wrap: wrap;">
