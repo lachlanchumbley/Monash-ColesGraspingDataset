@@ -13,7 +13,7 @@ You can download the dataset [**HERE**](https://bridges.monash.edu/articles/data
 2. Unzip all folders to the same location as unpack_data.py
 3. To combine point cloud data into one folder and visualize the data, run `python unpack_data.py`
 
-You can download `python unpack_data.py` [**HERE**](link).
+You can download `python unpack_data.py` [**HERE**](/unpack_data.py).
 
 NOTE: This requires cv2, open3d and rospy_message_converter to be installed
 
