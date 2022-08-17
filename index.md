@@ -1,5 +1,5 @@
-# Monash Grasping Dataset
-## Welcome to the Monash Grasping Dataset
+# Monash-Coles Grasping Dataset
+## Welcome to the Monash-Coles Grasping Dataset
 
 A 6-DoF Robotic Grasping Dataset using objects from Coles supermarket. 
 The dataset consists of 1500 grasps of 20 unique objects (75 grasps each). For each object, 25 grasps were attempted whilst in an upright position and the remaining 50 were attempted from random positions.
