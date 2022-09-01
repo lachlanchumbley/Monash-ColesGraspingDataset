@@ -18,7 +18,7 @@ You can download `python unpack_data.py` [**HERE**](/unpack_data.py).
 **NOTE:** This requires cv2, open3d and rospy_message_converter to be installed
 
 
-The 3D object models used in this grasping dataset can be found [**HERE**](XXXhttps://lachlanchumbley.github.io/ColesObjectSet/).
+The 3D object models used in this grasping dataset can be found [**HERE**](https://lachlanchumbley.github.io/ColesObjectSet/).
 
 ## The Objects
 <div float="left" style="display: flex; flex-direction: row; flex-wrap: wrap;">
